@@ -1,0 +1,1 @@
+console.log("Meme generator extension installed!")
